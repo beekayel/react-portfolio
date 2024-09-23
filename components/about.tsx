@@ -32,7 +32,7 @@ export default function About() {
       What began as a simple project quickly became a full-time endeavor, highlighting my <span className="underline">love</span> for problem-solving 
       in web development and SEO. After university, I dedicated myself 
       to this passion, landing my first web development role and deepening my focus on SEO, 
-      including technical SEO and content optimization at companies like <a className="text-yellow-400" href="https://www.berlin-brands-group.com/en">Berlin Brands Group</a> and <a className="text-amber-500" href="https://www.berlin-brands-group.com/en">JustWatch</a>.
+      including technical SEO and content optimization at companies like <a className="text-yellow-400" href="https://www.berlin-brands-group.com/en">Berlin Brands Group</a> and <a className="text-amber-500" href="https://www.justwatch.com/us">JustWatch</a>.
       I'm currently based in <span className="font-medium">Berlin, Germany</span>.
       </p>
 
