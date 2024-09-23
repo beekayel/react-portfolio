@@ -31,14 +31,14 @@ export default function About() {
       Before earning my  <span className="font-medium">Management</span> degree, I combined my interests in watches and SEO by launching a watch blog. 
       What began as a simple project quickly became a full-time endeavor, highlighting my <span className="underline">love</span> for problem-solving 
       in web development and SEO. After university, I dedicated myself 
-      to this passion, landing my first web development role and deepening my focus on SEO, 
+      to this passion, which led me to my first web development role. It deepened my focus on SEO, 
       including technical SEO and content optimization at companies like <a className="text-yellow-400" href="https://www.berlin-brands-group.com/en">Berlin Brands Group</a> and <a className="text-amber-500" href="https://www.justwatch.com/us">JustWatch</a>.
       I'm currently based in <span className="font-medium">Berlin, Germany</span>.
       </p>
 
       <p className="mt-5 block">
-        <span className="italic">When I'm not doing SEO</span>, I enjoy playing
-        video games, going fishing, or traveling. I also enjoy{" "}
+        When I'm not doing SEO, I spend my time playing
+        video games, fishing, or traveling. I also enjoy{" "}
         <span className="font-medium">learning new things </span>including ways to further 
         improve my SEO skills and expand my web design and development stack.
       </p>
